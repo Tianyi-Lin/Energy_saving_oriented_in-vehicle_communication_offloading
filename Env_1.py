@@ -681,3 +681,7 @@ env = Environ(n_veh=1, n_DC_UE=8, n_WU=4)
 env.new_random_game()
 
 plot_vehs_movement(env, n_step=10000)
+
+
+
+
